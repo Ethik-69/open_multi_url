@@ -1,6 +1,6 @@
 ## Installation
 
-A little script that open multi url with a google search.
+A little script that open multi url with a google research.
 
 use:
 
